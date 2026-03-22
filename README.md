@@ -18,7 +18,7 @@ I work across the stack, with a focus on AI-native development:
 
 - Studying for the **Claude Certified Architect** program
 - Building AI-powered tools and workflows with Claude Code + MCP
-- Shipping product features end-to-end in TypeScript
+- Shipping product features end-to-end 
 
 ---
 
