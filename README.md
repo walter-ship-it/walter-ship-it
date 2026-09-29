@@ -2,7 +2,7 @@
 
 **Product Engineer** — I bridge product thinking and technical execution.
 
-I don't just write specs and hand them off. I build the thing, ship it, and iterate on it. My background in product management means I think about *why* before *how*, but I'm most at home when I'm deep in the code making it happen.
+I don't just write specs and hand them off. I build the thing, ship it, and iterate on it. My background in product management means I think about *why* before *how*
 
 ---
 
